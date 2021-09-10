@@ -54,4 +54,9 @@ public class Seller implements Serializable {
 	public List<Sale> getSales() {
 		return sales;
 	}
+
+	public void setSales(List<Sale> sales) {
+		this.sales = sales;
+	}
+
 }
