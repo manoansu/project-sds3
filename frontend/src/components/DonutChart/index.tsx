@@ -25,7 +25,7 @@ const DonutChart = () =>{
             console.log(chartData);
         });
 
-    }, [])
+    }, []);
 
     // Forma ERADA..
     // let chartData: ChartData = {labels: [], series: []};
