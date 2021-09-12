@@ -51,8 +51,6 @@ const BarChart = () => {
             }
           ]
         });
-
-        console.log(chartData);
     });
 
 }, [])
